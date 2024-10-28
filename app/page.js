@@ -28,6 +28,10 @@ export default function Home() {
               Week 6 Page
             </Link>
 
+            <Link href="/week-7">
+              Week 7 Page
+            </Link>
+
           </li>
         </ul>
       </nav>
