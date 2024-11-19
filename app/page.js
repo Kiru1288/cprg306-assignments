@@ -40,6 +40,11 @@ export default function Home() {
               Week 9 Page
             </Link>
 
+            <Link href="/week-10">
+              Week 10 Page
+            </Link>
+
+
 
           </li>
         </ul>
